@@ -1,0 +1,13 @@
+.text-color{
+    *color: #1D66C5;
+  }
+  .margin-top{
+      margin-top: 20rem;
+  }
+  .background-pos{
+      background-position: center;
+      background-repeat: no-repeat;
+  }
+  .width100{
+      width: 100%;
+  }
